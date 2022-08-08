@@ -1,4 +1,4 @@
-# Pickerly (Image Picker Library)
+# Pickerly (Image Picker Library) 
 
 Pickerly is a simple android library which allows you to pick image seamlessly in your android
 project
